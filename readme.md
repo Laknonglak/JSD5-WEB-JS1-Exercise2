@@ -1,0 +1,1 @@
+use Math.random for click to random 1-100
